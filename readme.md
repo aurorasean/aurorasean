@@ -16,41 +16,42 @@ Work accounts
 
 
 ## My Projects
+
+<style>
+    .card {
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        border-radius: 8px;
+        padding: 16px;
+        background: #fff;
+        max-width: 320px;
+        margin: 16px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .card img {
+        border-radius: 6px;
+        width: 100%;
+        max-width: 240px;
+        margin-bottom: 12px;
+        transition: transform 0.2s;
+    }
+    .card p {
+        margin: 0;
+        font-weight: 500;
+        color: #333;
+        text-align: center;
+    }
+    .card:hover {
+        box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+        transform: translateY(-4px) scale(1.03);
+    }
+    .card:hover img {
+        transform: scale(1.05);
+    }
+</style>
 <div>
-    <style>
-        .card {
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            border-radius: 8px;
-            padding: 16px;
-            background: #fff;
-            max-width: 320px;
-            margin: 16px 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            transition: box-shadow 0.2s, transform 0.2s;
-        }
-        .card img {
-            border-radius: 6px;
-            width: 100%;
-            max-width: 240px;
-            margin-bottom: 12px;
-            transition: transform 0.2s;
-        }
-        .card p {
-            margin: 0;
-            font-weight: 500;
-            color: #333;
-            text-align: center;
-        }
-        .card:hover {
-            box-shadow: 0 6px 24px rgba(0,0,0,0.18);
-            transform: translateY(-4px) scale(1.03);
-        }
-        .card:hover img {
-            transform: scale(1.05);
-        }
-    </style>
     <div class="card">
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
             <img src="images/html-content-block.png" alt="A bowl of ice cream" title="This is a delicious bowl of ice cream.">
