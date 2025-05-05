@@ -17,18 +17,18 @@ Work accounts
 
 ## My Projects
 
-<div class="card">
+<p class="card">
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
             <img src="images/html-content-block.png">
             <p>Html Content Block</p>
         </a>
-        <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
+        <a href="https://blender-52.web.app">
             <img src="images/html-content-block.png">
-            <p>Html Content Block</p>
+            <p>Blender 52 inspiration</p>
         </a>
-</div>
+</p>
 <div class="card">
-        <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
+        <a href="https://positive-cube.web.app">
             <img src="images/positive-cube.png" width="144px">
             <p>The Positive Cube</p>
         </a>
