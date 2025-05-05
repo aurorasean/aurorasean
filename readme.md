@@ -1,0 +1,60 @@
+# AuroraSean (Sean Thomas)
+
+## Who I am
+
+A developer at heart, a deploying wizard, trying to solve problems, trying to automate everything
+
+## My accounts
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SeanThomas-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZGF0YS1zdXBwb3J0ZWQtZHBzPSIyNHgyNCIKICAgIGZpbGw9IndoaXRlIiBjbGFzcz0ibWVyY2Fkby1tYXRjaCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmb2N1c2FibGU9ImZhbHNlIj4KICAgIDxwYXRoCiAgICAgICAgZD0iTTIwLjUgMmgtMTdBMS41IDEuNSAwIDAwMiAzLjV2MTdBMS41IDEuNSAwIDAwMy41IDIyaDE3YTEuNSAxLjUgMCAwMDEuNS0xLjV2LTE3QTEuNSAxLjUgMCAwMDIwLjUgMnpNOCAxOUg1di05aDN6TTYuNSA4LjI1QTEuNzUgMS43NSAwIDExOC4zIDYuNWExLjc4IDEuNzggMCAwMS0xLjggMS43NXpNMTkgMTloLTN2LTQuNzRjMC0xLjQyLS42LTEuOTMtMS4zOC0xLjkzQTEuNzQgMS43NCAwIDAwMTMgMTQuMTlhLjY2LjY2IDAgMDAwIC4xNFYxOWgtM3YtOWgyLjl2MS4zYTMuMTEgMy4xMSAwIDAxMi43LTEuNGMxLjU1IDAgMy4zNi44NiAzLjM2IDMuNjZ6Ij48L3BhdGg+Cjwvc3ZnPg==&link=https://github.com/lnr-seanthomas)](https://github.com/lnr-seanthomas)
+
+[![SketchFab](https://img.shields.io/badge/-SketchFab-blue?style=flat&logo=SketchFab&logoColor=white&link=https://sketchfab.com/Aurorasean)](https://sketchfab.com/Aurorasean)
+
+Work accounts
+
+- [![ICIS Github](https://img.shields.io/badge/ICIS-GitHub-blue.svg?logo=data:image/png;base64,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&link=https://github.com/lnr-seanthomas)](https://github.com/lnr-seanthomas)
+
+
+## My Projects
+<div>
+    <style>
+        .card {
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            padding: 16px;
+            background: #fff;
+            max-width: 320px;
+            margin: 16px 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            transition: box-shadow 0.2s, transform 0.2s;
+        }
+        .card img {
+            border-radius: 6px;
+            width: 100%;
+            max-width: 240px;
+            margin-bottom: 12px;
+            transition: transform 0.2s;
+        }
+        .card p {
+            margin: 0;
+            font-weight: 500;
+            color: #333;
+            text-align: center;
+        }
+        .card:hover {
+            box-shadow: 0 6px 24px rgba(0,0,0,0.18);
+            transform: translateY(-4px) scale(1.03);
+        }
+        .card:hover img {
+            transform: scale(1.05);
+        }
+    </style>
+    <div class="card">
+        <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
+            <img src="images/html-content-block.png" alt="A bowl of ice cream" title="This is a delicious bowl of ice cream.">
+            <p>Html Content Block</p>
+        </a>
+    </div>
+</div>
