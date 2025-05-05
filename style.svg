@@ -115,8 +115,8 @@
 			</style>
 			<div class="container">
                 <div class="card">
-                    <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
-                        <img src="images/html-content-block.png" alt="A bowl of ice cream" title="This is a delicious bowl of ice cream.">
+                    <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block">
+                        <img src="images/html-content-block.png" alt="A bowl of ice cream" title="This is a delicious bowl of ice cream."></img>
                         <p>Html Content Block</p>
                     </a>
                 </div>
