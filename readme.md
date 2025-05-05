@@ -18,14 +18,12 @@ Work accounts
 ## My Projects
 
 <div class="card">
-        <style>a {color: blue}</style>
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
             <img src="images/html-content-block.png">
             <p>Html Content Block</p>
         </a>
 </div>
 <div class="card">
-        <style>a {color: blue}</style>
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
             <img src="images/html-content-block.png">
             <p>Html Content Block</p>
