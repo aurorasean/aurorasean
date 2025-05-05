@@ -17,8 +17,15 @@ Work accounts
 
 ## My Projects
 
+<style
+  type="text/css">
+h1 {color:red;}
+
+a {color:blue;}
+</style>
+okay
 <div>
-    <div class="card" style="background: red">
+    <div>
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
             <img src="images/html-content-block.png" alt="A bowl of ice cream" title="This is a delicious bowl of ice cream.">
             <p>Html Content Block</p>
