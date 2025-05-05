@@ -26,6 +26,8 @@ Work accounts
         <code>If you have data in your Confluence instance, and you want to create a chart from it, look here</code>
     </div>
 </a>
+
+---
 <br/>
 <a href="https://blender-52.web.app">
     <img src="images/blender-52.png" width="144px">
@@ -34,6 +36,8 @@ Work accounts
         <code>Be inspired to create something for the blender 52 challange</code>
     </div>
 </a>
+
+---
 <br/>
     <a href="https://positive-cube.web.app">
     <img src="images/positive-cube.png" width="144px">
@@ -42,6 +46,8 @@ Work accounts
         <code>Have a positive thought, on the house</code>
     </div>
 </a>
+
+---
 <br/>
     <a href="https://ikigai-bf141.web.app">
     <img src="images/ikigai.png" width="144px">
@@ -50,6 +56,7 @@ Work accounts
         <code>What is your passion?</code>
     </div>
 </a>
+---
 
 ### In Progress
 
@@ -61,6 +68,8 @@ Work accounts
         <code>Not revealed</code>
     </div>
 </a>
+
+---
 <br/>
 <a href="https://github.com/aurorasean/aurorasean">
     <img src="https://avatars.githubusercontent.com/u/72526453?s=200&v=4" width="144px">
