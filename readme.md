@@ -23,13 +23,15 @@ Work accounts
             <p>Html Content Block</p>
         </a>
         <a href="https://blender-52.web.app">
-            <img src="images/html-content-block.png">
+            <img src="images/html-content-block.png" width="144px">
+            <p>Html Content Block</p>
+        </a>
+        <a href="https://blender-52.web.app">
+            <img src="images/blender-52.png" width="144px">
             <p>Blender 52 inspiration</p>
         </a>
-</p>
-<div class="card">
-        <a href="https://positive-cube.web.app">
+         <a href="https://positive-cube.web.app">
             <img src="images/positive-cube.png" width="144px">
             <p>The Positive Cube</p>
         </a>
-</div>
+</p>
