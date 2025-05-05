@@ -17,21 +17,71 @@ Work accounts
 
 ## My Projects
 
-<p class="card">
-        <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
-            <img src="images/html-content-block.png">
-            <p>Html Content Block</p>
-        </a>
-        <a href="https://blender-52.web.app">
-            <img src="images/html-content-block.png" width="144px">
-            <p>Html Content Block</p>
-        </a>
-        <a href="https://blender-52.web.app">
-            <img src="images/blender-52.png" width="144px">
-            <p>Blender 52 inspiration</p>
-        </a>
-         <a href="https://positive-cube.web.app">
-            <img src="images/positive-cube.png" width="144px">
-            <p>The Positive Cube</p>
-        </a>
-</p>
+### Done projects
+
+<a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
+    <img src="images/html-content-block.png" width="144px">
+    <div>
+        <p>Html Content Block</p>
+        <code>If you have data in your Confluence instance, and you want to create a chart from it, look here</code>
+    </div>
+</a>
+<br/>
+<a href="https://blender-52.web.app">
+    <img src="images/blender-52.png" width="144px">
+    <div>
+        <p>Blender 52 inspiration</p>
+        <code>Be inspired to create something for the blender 52 challange</code>
+    </div>
+</a>
+<br/>
+    <a href="https://positive-cube.web.app">
+    <img src="images/positive-cube.png" width="144px">
+    <div>
+        <p>The Positive Cube</p>
+        <code>Have a positive thought, on the house</code>
+    </div>
+</a>
+<br/>
+    <a href="https://ikigai-bf141.web.app">
+    <img src="images/ikigai.png" width="144px">
+    <div>
+        <p>Ikigai</p>
+        <code>What is your passion?</code>
+    </div>
+</a>
+
+### In Progress
+
+
+<a href="https://github.com/aurorasean/aurorasean">
+    <img src="images/wip.png" width="144px">
+    <div>
+        <p>Easy to Parcel (WIP)</p>
+        <code>Not revealed</code>
+    </div>
+</a>
+<br/>
+<a href="https://github.com/aurorasean/aurorasean">
+    <img src="https://avatars.githubusercontent.com/u/72526453?s=200&v=4" width="144px">
+    <div>
+        <p>Backstage Repo reporter (WIP)</p>
+        <code>You have repositories, that you want to know a global view of them? (WIP)</code>
+    </div>
+</a>
+
+
+## Skills
+
+| Language      | Experience | Notes                          |
+|---------------|------------|--------------------------------|
+| JavaScript    | ★★★★★      | Frontend & backend           |
+| TypeScript    | ★★★★★      | React, Node.js, Svelte, Vue, Electron |
+| Python        | ★★★★☆      | Automation, scripting, AI    |
+| Bash/Shell    | ★★★★☆      | DevOps, automation           |
+| SQL           | ★★★★☆      | PostgreSQL, MySQL, MsSql     |
+| Docker        | ★★★★☆      | Containerization, Deployments |
+| Kubernetes    | ★★★☆☆      | Orchestration                |
+| NoSql         | ★★★★★      | MongoDb, Firebase          |
+| CI/CD         | ★★★★☆      | GitHub Actions, GitLab, TeamCity |
+| C#            | ★★★★★      | Asp, Rest, EntityFramework, Backend, FrontEnd, WPF, Forms, ** |
