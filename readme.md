@@ -22,10 +22,14 @@ Work accounts
             <img src="images/html-content-block.png">
             <p>Html Content Block</p>
         </a>
-</div>
-<div class="card">
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
             <img src="images/html-content-block.png">
             <p>Html Content Block</p>
+        </a>
+</div>
+<div class="card">
+        <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
+            <img src="images/positive-cube.png" width="144px">
+            <p>The Positive Cube</p>
         </a>
 </div>
