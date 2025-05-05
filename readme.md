@@ -19,16 +19,13 @@ Work accounts
 
 <div align="center">
 	<br>
-	<a href="https://github.com/aurorasean/aurorasean/style.svg">
 		<picture>
-		  <source media="(min-width: 720px)" srcset="style.svg">
-		  <img src="style.svg" width="800" height="400" alt="Click to see the source">
+		  <source media="(min-width: 720px)" srcset="style-v1.svg">
+		  <img src="style-v1.svg" width="800" height="400" alt="Click to see the source">
 		</picture>
-	</a>
 	<br>
 </div>
 
-okay
 <div>
     <div class="card">
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
