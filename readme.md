@@ -17,20 +17,17 @@ Work accounts
 
 ## My Projects
 
-<div align="center">
-	<br>
-		<picture>
-		  <source media="(min-width: 720px)" srcset="style-v1.svg">
-		  <img src="style-v1.svg" width="800" height="400" alt="Click to see the source">
-		</picture>
-	<br>
-</div>
-
-<div>
-    <div class="card">
+<div class="card">
+        <style>a {color: blue}</style>
         <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
-            <img src="images/html-content-block.png" alt="A bowl of ice cream" title="This is a delicious bowl of ice cream.">
+            <img src="images/html-content-block.png">
             <p>Html Content Block</p>
         </a>
-    </div>
+</div>
+<div class="card">
+        <style>a {color: blue}</style>
+        <a href="https://marketplace.atlassian.com/apps/1233648/html-content-block?tab=overview&hosting=cloud">
+            <img src="images/html-content-block.png">
+            <p>Html Content Block</p>
+        </a>
 </div>
