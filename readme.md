@@ -61,15 +61,6 @@ Work accounts
 
 ### In Progress
 
-
-<a href="https://github.com/aurorasean/aurorasean">
-    <img src="images/wip.png" width="144px">
-    <div>
-        <p>Easy to Parcel (WIP)</p>
-        <code>Not revealed</code>
-    </div>
-</a>
-
 ---
 <br/>
 <a href="https://github.com/aurorasean/aurorasean">
